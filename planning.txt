@@ -1,0 +1,20 @@
+voting application 
+what?
+a functionality where user can give vote to the given set of candidates
+
+Models?
+
+Routes?
+
+voring app functionality ?
+1- user should sign in /sign up
+2- see the list of candidates
+3- vote one of the candidates,once voting done user should not be able to vote
+4- there is a route which shows the list of candidates and their live vote counts sorted by their vote count
+5- user data must contain their own unique goverment id proof named: aadhar card number
+6- there should be one admin who can maintains the table of candidates and he wont be able to vote at all
+7- users can change their password 
+8 user can only login with aadhar card and password
+
+----------------------------------------------------------------------------
+Routes
